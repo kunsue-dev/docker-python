@@ -13,8 +13,3 @@ follow Linux instruction using PowerShell
 
 ### Mac
 follow Linux instructions but make sure Docker Desktop is running
-
-## Using x86_64 pre-built for Linux or WSL
-``` sh
-docker pull kunsue-dev/python:latest
-```
